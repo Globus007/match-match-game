@@ -1,0 +1,11 @@
+[
+  {
+    "category": "animals",
+    "images": [
+      "001-elephant.svg",
+      "002-snake.svg",
+      "003-hippo.svg",
+      "004-turtle.svg"
+    ]
+  }
+]
